@@ -4,7 +4,7 @@
 该配置文件根据我自己的电脑配置定制，不一定适用于其他型号的硬件配置。
 
 
- # Version 版本
+ ## Version 版本
 Type|Version
 --|:--|
 OpenCore|0.7.9
@@ -16,7 +16,7 @@ OpenCore|0.7.9
 MacOS|12.3
 
 
-# Hardware 硬件
+## Hardware 硬件
 Type|Item
 --|:--|
 CPU|Intel Core i7-8700
@@ -32,8 +32,8 @@ CPU|Intel Core i7-8700
 无线网卡|BCM94352Z
 
 
-# Functionality 运行状况
-## Works 正常工作的
+## Functionality 运行状况
+### Works 正常工作的
 * Ethernet 有线网络
 * Onboard Audio (including digital audio) 板载音频输出
 * Sleep/Wake 睡眠唤醒
@@ -52,6 +52,6 @@ CPU|Intel Core i7-8700
 * Igpu headless mode (must be headless mode if you want Airplay works)
 * Wired Sidecar
 
-## Does't work 无法正常工作的
+### Does't work 无法正常工作的
 * Onboard Wifi: Won't work, I removed it and replaced with Broadcom BCM94352Z Card
 * Wireless Sidecar
