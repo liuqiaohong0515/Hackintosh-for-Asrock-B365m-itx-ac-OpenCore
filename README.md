@@ -1,4 +1,4 @@
-# Hackintosh for Asrock B365 itx/ac OpenCore
+# Hackintosh for Asrock B365m itx/ac OpenCore
  This is mainly here for my benefit more than anyone elses, but you're welcome to use or modify these files in any way if you believe they can be of assistance to you.
 
 该配置文件根据我自己的电脑配置定制，不一定适用于其他型号的硬件配置。
