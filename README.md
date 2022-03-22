@@ -28,7 +28,7 @@ Wifi card|BCM94352Z
 --|:--|
 CPU|Intel Core i7-8700
 主板|ASRock B365M-ITX/ac
-显卡|无
+独立显卡|无
 无线网卡|BCM94352Z
 
 
