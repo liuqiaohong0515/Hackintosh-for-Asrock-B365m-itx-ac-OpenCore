@@ -53,5 +53,5 @@ CPU|Intel Core i7-8700
 * Wired Sidecar
 
 ## Does't work 无法正常工作的
-Onboard Wifi: Won't work, I removed it and replaced with Broadcom BCM94352Z Card
-Wireless Sidecar
+* Onboard Wifi: Won't work, I removed it and replaced with Broadcom BCM94352Z Card
+* Wireless Sidecar
